@@ -1,13 +1,13 @@
 {
-    "botToken": "",
-    "logs_channel_id": "",
+    "botToken": "MTI0Njc5MTg0NzU1NzIwNjA1Ng.G5MhZJ.ubSdoZjhiGjqmjSOpxgabZP2SCBMO4YcgG0uzY",
+    "logs_channel_id": "https://discord.com/channels/1246775384733777950/1246793454260981841",
 
-    "prefix": "*",
+    "prefix": "fake",
     "command_name": "start",
     
     "give_role": false,
     "role_name": "Nom du role",
 
     "mass_dm": 0,
-    "message": "Message a spam"
+    "message": "https://discord.gg/AFgQK9QfRM"
 }
